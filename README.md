@@ -1,5 +1,6 @@
 # Bonjour 👋
 
+- :hamster: I'm Leslie Jiang / zyNotCute / Lynn / 仓鼠 , whatever
 - :mortar_board: Currently a student majoring in CS in HUST, China
 - :briefcase: A member of @BingyanStudio FE Group
 - :page_facing_up: Previously paticipated in Olympiad of Informatics, algorithm lover
