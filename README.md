@@ -7,6 +7,6 @@
 - :book: Learning front-end development, cybersecurity and Web3
 - :movie_camera: Cinema fans, especially for indie movies
 - 🏳️‍🌈 Gender non-binary
-- :speech_balloon: My dream is to change the way people think, feel and interact via technology
+- :speech_balloon: My dream is to change the way people think, feel and interact with each other via technology
 - :penguin: Contact me via QQ: 2059433635 if necessary
 - :postbox: [Welcome to my personal blog](https://zynotcute.github.io/)
