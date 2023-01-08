@@ -9,5 +9,4 @@
 - 🏳️‍🌈 Gender non-binary
 - :speech_balloon: My dream is to change the way people think, feel and interact with each other using technology
 - :penguin: Contact me via QQ: 2059433635 if necessary
-- :bird: Or just send messages to me on Twitter (@Linnea_1871)
 - :postbox: [Welcome to my personal blog](https://zynotcute.github.io/)
